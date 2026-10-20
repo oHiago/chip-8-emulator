@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/hiagocavalcante/chip-8-emulator/build",
+  "command": "/usr/lib64/ccache/c++  -I/home/hiagocavalcante/chip-8-emulator/src  -o CMakeFiles/emu.dir/main.cpp.o -c /home/hiagocavalcante/chip-8-emulator/main.cpp",
+  "file": "/home/hiagocavalcante/chip-8-emulator/main.cpp",
+  "output": "CMakeFiles/emu.dir/main.cpp.o"
+},
+{
+  "directory": "/home/hiagocavalcante/chip-8-emulator/build",
+  "command": "/usr/lib64/ccache/c++  -I/home/hiagocavalcante/chip-8-emulator/src  -o CMakeFiles/emu.dir/src/emu.cpp.o -c /home/hiagocavalcante/chip-8-emulator/src/emu.cpp",
+  "file": "/home/hiagocavalcante/chip-8-emulator/src/emu.cpp",
+  "output": "CMakeFiles/emu.dir/src/emu.cpp.o"
+}
+]
